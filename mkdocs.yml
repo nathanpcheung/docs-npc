@@ -1,1 +1,16 @@
-site_name: Nathan's Docs
+site_name: Nathan's Documentaion
+theme:
+  name: mkdocs
+  coler_mode: auto
+  user_color_mode_toggle: enable
+language: en
+ 
+extra:
+  social: |
+    - icon: <i class="fa-brands fa-github"></i>
+      link: https://github.com/decodeproxy
+    - icon: <i class="fa-solid fa-user"></i>
+      link: https://nathanpcheung.com
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/decodeproxy" target="_blank" rel="noopener">Nathan Cheung </a>
